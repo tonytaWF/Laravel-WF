@@ -1,0 +1,10 @@
+.active {
+    color: #97c70a;
+}
+.archived {
+    color: #a5a5a5;
+}
+
+.dropzone {
+    border: 1px dashed #ccc !important;
+}
